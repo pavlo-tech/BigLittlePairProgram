@@ -8,10 +8,10 @@ Instructions:
 2. run the installer (setup.exe).
 3. Allow installation (trust me, I am not smart enough to program a virus)
 4. set up your CSVs so that the column headers have the following tags inclusded in the cooresponding columns:
-  name: FN,
-  roll number: ROLL,
-  (Big/Little)Choice 1: CH1,
-  (Big/Little)Choice 5: CH5
+  name= FN,
+  roll number= ROLL,
+  (Big/Little)Choice 1= CH1,
+  (Big/Little)Choice 5= CH5
 5. specify the correct directory of CSVs ie: "C:\Desktop\Brothers.csv"
 6. Click the "generate" button.
 7. If it doesnt work, text me

@@ -1,4 +1,4 @@
-Timestamp,Name,Phone Number,First Choice,Second Choice,Third Choice,Fourth Choice,Fifth Choice
+Timestamp,FNName,Phone Number,CH1First Choice,Second Choice,Third Choice,Fourth Choice,CH5Fifth Choice
 432,Jacob0,0911,Pavlo0,Pavlo1,Pavlo2,Pavlo3,Pavlo4
 4132,Jacob1,9211,Pavlo1,Pavlo2,Pavlo3,Pavlo4,Pavlo0
 4322,Jacob2,9121,Pavlo2,Pavlo3,Pavlo4,Pavlo0,Pavlo1

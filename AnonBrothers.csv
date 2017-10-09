@@ -1,4 +1,4 @@
-Timestamp,Name,Roll Number,Phone Number,First Choice,Second Choice,Third Choice,Fourth Choice,Fifth Choice
+Timestamp,FNName,Roll ROLL Number,Phone Number,First CH1 Choice,Second Choice,Third Choice,Fourth Choice,CH5 Fifth Choice
 420,Pavlo0,1,911,Jacob0,Jacob1,Jacob2,Jacob3,Jacob4
 666,Pavlo1,2,911,Jacob1,Jacob2,Jacob3,Jacob4,Jacob0
 69,Pavlo2,3,911,Jacob2,Jacob3,Jacob4,Jacob0,Jacob1

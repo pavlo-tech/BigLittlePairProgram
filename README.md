@@ -1,5 +1,7 @@
 BigLittlePaiProgram Version 1
 
+Created By: Pavlo Triantafyllides and Jacob Bailey of Theta Tau Lambda Gamma Chapter
+
 This is a Program to auto assign big-little pairs based off of relative rankings of eachother
 
 

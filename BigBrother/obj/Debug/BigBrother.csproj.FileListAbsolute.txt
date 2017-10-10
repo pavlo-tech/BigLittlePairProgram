@@ -43,7 +43,6 @@ C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\Big
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.application
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.exe
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.pdb
-C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.csprojResolveAssemblyReference.cache
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.MainForm.resources
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.Properties.Resources.resources
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.ValidationForm.resources
@@ -53,3 +52,4 @@ C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\Big
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.application
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.exe
 C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.pdb
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.csprojResolveAssemblyReference.cache

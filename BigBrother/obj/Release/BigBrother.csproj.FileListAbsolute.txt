@@ -19,3 +19,17 @@ C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigBrother\obj\Release\BigBrother.e
 C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigBrother\obj\Release\BigBrother.application
 C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigBrother\obj\Release\BigBrother.exe
 C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigBrother\obj\Release\BigBrother.pdb
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Release\BigBrother.exe.config
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Release\BigBrother.exe.manifest
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Release\BigBrother.application
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Release\BigBrother.exe
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Release\BigBrother.pdb
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.MainForm.resources
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.Properties.Resources.resources
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.ValidationForm.resources
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.csproj.GenerateResource.Cache
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.exe.manifest
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.application
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.exe
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Release\BigBrother.pdb

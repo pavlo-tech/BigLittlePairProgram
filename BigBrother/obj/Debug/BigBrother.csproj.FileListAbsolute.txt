@@ -38,3 +38,18 @@ C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigLittlePairProgram\BigBrother\obj
 C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.application
 C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.exe
 C:\Users\Pavlo\Desktop\BigL_ittle\BigBrother\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.pdb
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.exe.config
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.exe.manifest
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.application
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.exe
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\bin\Debug\BigBrother.pdb
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.csprojResolveAssemblyReference.cache
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.MainForm.resources
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.Properties.Resources.resources
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.ValidationForm.resources
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.csproj.GenerateResource.Cache
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.exe.manifest
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.application
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.exe
+C:\Users\Jacob Bailey\Source\Repos\BigLittlePairProgram\BigBrother\obj\Debug\BigBrother.pdb

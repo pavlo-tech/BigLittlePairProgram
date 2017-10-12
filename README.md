@@ -7,8 +7,8 @@ This is a Program to auto assign big-little pairs based off of relative rankings
 
 Instructions: 
 1. Download the files
-2. run the installer (setup.exe).
-3. Allow installation (trust me, I am not smart enough to program a virus)
+2. Do not run the installer,  navigate to \BigLittlePairProgram\BigBrother\bin\Release.
+3. Run BigBrother.exe
 4. set up your CSVs so that the column headers have the following tags inclusded in the cooresponding columns:
   name= FN,
   roll number= ROLL,
